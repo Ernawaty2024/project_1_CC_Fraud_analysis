@@ -26,7 +26,7 @@ The project aims to conduct a comprehensive analysis using a customer-level data
 
 These analyses are essential for developing strategies that reduce operational costs, enhance the allocation of resources, and maintain the trust and confidence of customers in the credit card services. 
 
-## Uderstanding and Defining Flag Account
+## Understanding and Defining Flag Account
 
 A flagged account refers to a credit card account that has been marked for further investigation due to suspected fraudulent activities. This designation is typically applied when a transaction or series of transactions exhibit unusual patterns or characteristics that deviate from normal behavior, triggering alerts based on predefined criteria. 
 

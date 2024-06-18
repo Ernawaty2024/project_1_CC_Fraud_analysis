@@ -1,10 +1,11 @@
 # Credit Card Fraud Analysis
 
 ## Group 2
-Team members : Jimmy Kim
-               Thet Win
-               Mounika Lingala
-               Ernawaty, Ernawaty
+Team members : 
+- Jimmy Kim
+- Thet Win
+- Mounika Lingala
+- Ernawaty, Ernawaty
 
 Project Details:
 - Duration : 2 weeks

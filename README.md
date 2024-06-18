@@ -20,6 +20,6 @@ Flagging an account allows financial institutions to temporarily restrict activi
 ## Data Dictionary
 The metadata can be downloaded using this<code style ="color:blue">[link](https://github.com/incribo-inc/credit_card_fraud/blob/main/credit_card_fraud.csv)</code>.
 
-The data set includes credit card transactions made by credit card holders from .....countries, shows a highly imbalanced dataset with a significant portion of transactions (nearly 50%) flagged for suspected fraudulent activity, indicating a substantial presence of potentaial fraud cases requiring detailed analysis. 
+The data set includes credit card transactions made by credit card holders from .....countries, shows a highly imbalanced dataset with a significant portion of transactions (nearly 50%) flagged for suspected fraudulent activity, indicating a substantial presence of potential fraud cases requiring detailed analysis. 
 
 The column 'Fraud Flag or Label' is a binary column where 1 indicates a transaction flagged for fraud, and 0  indicates a non-fraudulent transaction.

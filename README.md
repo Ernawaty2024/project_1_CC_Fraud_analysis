@@ -7,10 +7,6 @@ Team members :
 - Mounika Lingala
 - Ernawaty, Ernawaty
 
-Project Details:
-- Duration : 2 weeks
-- Institution : University of Toronto Bootcamp
-- Tool : Jupyter Notebook
 
 ## Task
 Exploratory Data Analysis and Visualization

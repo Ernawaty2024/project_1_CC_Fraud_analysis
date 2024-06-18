@@ -13,7 +13,7 @@ Exploratory Data Analysis and Visualization
 
 ## Background
 
-Credit card  fraud is a significant challenge for financial institutions, impacting both operational and customer trust. To address this issue, it is crucial for credit card companies to optimze staffing levels, analyze the susceptibility of different types of credit cards to fraud, and identify geographical regions with higher incidences of flagged accounts.
+Credit card  fraud is a significant challenge for financial institutions, impacting both operational and customer trust. To address this issue, it is crucial for credit card companies to optimize staffing levels, analyze the susceptibility of different types of credit cards to fraud, and identify geographical regions with higher incidences of flagged accounts.
 
 The project aims to conduct a comprehensive analysis using a customer-level dataset obtained from the <code style ="color:blue">[Kaggle Website](https://www.kaggle.com/code/teamincribo/credit-card-fraud-dataset/input)</code>. This dataset has a total of 8.000 transactions, out of which 3989 have been flagged as suspicious. By leveraging this data, the project will:
 1. **Optimize Staffing Levels** : Analyze the frequency of suspected fraudulent activities at different times of day to ensure that staffing is both effective and efficinet.

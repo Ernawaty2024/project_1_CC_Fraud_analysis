@@ -1,5 +1,19 @@
 # Credit Card Fraud Analysis
 
+## Group 2
+Team members : Jimmy Kim
+               Thet Win
+               Mounika Lingala
+               Ernawaty, Ernawaty
+
+Project Details:
+- Duration : 2 weeks
+- Institution : University of Toronto Bootcamp
+- Tool : Jupyter Notebook
+
+## Task
+Exploratory Data Analysis and Visualization
+
 ## Background
 
 Credit card  fraud is a significant challenge for financial institutions, impacting both operational and customer trust. To address this issue, it is crucial for credit card companies to optimze staffing levels, analyze the susceptibility of different types of credit cards to fraud, and identify geographical regions with higher incidences of flagged accounts.
@@ -17,9 +31,22 @@ A flagged account refers to a credit card account that has been marked for furth
 
 Flagging an account allows financial institutions to temporarily restrict activities, conduct detailed reviews, and take appropriate actions to prevent potential fraud and protect both the customer and the institution.
 
+This dataset was selected due to its substantial size and high proportion of flagged transactions, which provides a robust foundation for analyzing patterns of fraud. 
+The presence of nearly 50% flagged transactions enables a thorough investigation into time-based staffing optimization, brand susceptibility to fraud, and geographical fraud hotspots. This comprehensive analysis is crucial for developing effective fraud prevention strategies and improving operational efficiency in credit card companies.
+
 ## Data Dictionary
-The metadata can be downloaded using this<code style ="color:blue">[link](https://github.com/incribo-inc/credit_card_fraud/blob/main/credit_card_fraud.csv)</code>.
+The data set used in this project is sourced from the credit card fraud repository available on the GitHub platform, maintained by incribo-inc. and can be downloaded using this<code style ="color:blue">[link](https://github.com/incribo-inc/credit_card_fraud/blob/main/credit_card_fraud.csv)</code>.
 
-The data set includes credit card transactions made by credit card holders from .....countries, shows a highly imbalanced dataset with a significant portion of transactions (nearly 50%) flagged for suspected fraudulent activity, indicating a substantial presence of potential fraud cases requiring detailed analysis. 
+The column 'Fraud Flag or Label' is a binary column where:
+- `1` indicates a transaction flagged for fraud
+- `0`  indicates a non-fraudulent transaction
 
-The column 'Fraud Flag or Label' is a binary column where 1 indicates a transaction flagged for fraud, and 0  indicates a non-fraudulent transaction.
+## Project Structure
+1. **Data Cleaning**: Preprocesses and clean the dataset for analysis.
+2. **Exploratory Data Analysis (EDA)**: Explore data distributions, correlations, and patterns.
+3. **Visualization**: Create visual representations to better understand the data.
+4. **Statistical Analysis**: Perform statistical tests to validate findings.
+5. **Conclusion**: Summarize insights and proporse actionable recommendations.
+
+## Conclusion
+This project will provide insight into optimizing fraud detection strategies, enhancing operational efficiencies, and safeguarding customer trust. For further details, refer to the notebooks and scripts within this repository.

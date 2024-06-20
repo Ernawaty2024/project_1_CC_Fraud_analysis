@@ -41,13 +41,13 @@ The column 'Fraud Flag or Label' is a binary column where:
 
 ## Usage
 1. Open the jupyter notebook<code style ="color:blue">[project1_main](https://github.com/Ernawaty2024/project_1_CC_Fraud_analysis/blob/main/project1_main.ipynb)</code>.
-2.  Ensure you have the <code style ="color:blue">[merging_csv file](merging_csv.ipynb)</code> file containing IP dataset merged with  <code style ="color:blue">[credit_card_fraud file](resource/credit_card_fraud.csv)</code>
+2.  Ensure you have the <code style ="color:blue">[merged_csv file](resource/merged_file.csv)</code> file containing IP dataset merged with  <code style ="color:blue">[credit_card_fraud file](resource/credit_card_fraud.csv)</code>
 
 ## Project Structure
 1. **Data Cleaning**: Preprocesses and clean the dataset for analysis:
    - Divide flagged dataset into 4 subset datasets. 
    - Fetch flagged IP addresses for the 4 datasets to locate City, Lat, Lng, Continent, Capital, and Country.
-   - Merge the four data frames into a CSV file called  <code style ="color:blue">[merging_csv file](merging_csv.ipynb)</code>.
+   - Merge the four data frames into a CSV file called  <code style ="color:blue">[combined_file](resource/combined_file.csv)</code>.
 2. **Exploratory Data Analysis (EDA)**: Explore data distributions, correlations, and patterns.
 3. **Visualization**: Create visual representations to better understand the data.
 4. **Statistical Analysis**: Perform statistical tests to validate findings.

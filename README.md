@@ -49,7 +49,7 @@ The column 'Fraud Flag or Label' is a binary column where:
    - Divided flagged dataset into 4 subset datasets. 
    - Fetched flagged IP addresses for the 4 datasets to locate City, Lat, Lng, Continent, Capital, and Country.
    - Merged the four data frames into a CSV file called  <code style ="color:blue">[combined_file](resource/combined_file.csv)</code>.
-   - Merged the <code style ="color:blue">[combined_file](resource/combined_file.csv)</code> with the<code style ="color:blue">[credit_card_fraud file](resource/credit_card_fraud.csv)</code>. This is the final file for exploratory analysis.
+   - Merged the <code style ="color:blue">[combined_file](resource/combined_file.csv)</code> with the<code style ="color:blue">[credit_card_fraud file](resource/credit_card_fraud.csv)</code>. <code style ="color:blue">[merged_csv file](resource/merged_file.csv)</code> the final file for exploratory analysis.
 
 2. **Exploratory Data Analysis (EDA)**: Explore data distributions, correlations, and patterns.
 3. **Visualization**: Create visual representations to better understand the data.

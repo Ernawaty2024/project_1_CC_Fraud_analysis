@@ -42,6 +42,7 @@ The column 'Fraud Flag or Label' is a binary column where:
 ## Usage
 1. Open the jupyter notebook<code style ="color:blue">[project1_main](https://github.com/Ernawaty2024/project_1_CC_Fraud_analysis/blob/main/project1_main.ipynb)</code>.
 2. Ensure you have the <code style ="color:blue">[merged_csv file](resource/merged_file.csv)</code> file containing IP dataset merged with  <code style ="color:blue">[credit_card_fraud file](resource/credit_card_fraud.csv)</code>
+3. <code style ="color:blue">[Merging_file](merging_csv.ipynb)</code> is only used for IP address look up to retrieve the location data (long, lng, city, country, continent, and capital)
 
 ## Project Structure
 1. **Data Cleaning**: Preprocesses and clean the dataset for analysis:

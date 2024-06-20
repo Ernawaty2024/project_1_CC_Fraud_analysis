@@ -1,0 +1,19 @@
+Transaction ID,IP,City,Lat,Lng,Continent,Capital,Country
+db096aac-6835-495e-aaa3-4d82665d156a,147.17.133.152,Waltham,42.40632,-71.27939,North America,"Washington, D.C.",United States
+5aca5952-cc27-4d6f-b612-d7af473b73e1,17.97.43.210,Cupertino,37.32268,-122.03005,North America,"Washington, D.C.",United States
+49520297-ce2d-4f75-8e00-3c17ee827f03,99.111.217.227,Oshkosh,44.02471,-88.54261,North America,"Washington, D.C.",United States
+73ab78f4-f0bc-45c6-a424-4e07fb208ec8,12.8.122.125,Tallahassee,30.50965,-84.24872,North America,"Washington, D.C.",United States
+0e2f402f-ae7c-4a77-98d2-628dfd46c53c,165.10.134.174,Ferndale,-26.09221,28.00422,Africa,Pretoria,South Africa
+fd7465c8-0c78-4f8c-b483-6f9206272c3d,159.90.91.169,Caracas,10.50526,-66.91776,South America,Caracas,Venezuela
+a150e342-5700-42fe-97c7-05402eab2f78,134.50.160.26,Pocatello,42.86198,-112.4332,North America,"Washington, D.C.",United States
+fcbcea92-3964-465e-88e2-10130ce61724,138.49.4.246,La Crosse,43.81295,-91.23001,North America,"Washington, D.C.",United States
+e4c3ae6c-b795-40aa-b59c-23d346649cb3,195.59.118.107,Bude,50.81594,-4.54661,Europe,London,United Kingdom
+b7f69cbc-a03d-41f8-adca-75920b0242c3,18.106.240.6,Seattle,47.62232,-122.33665,North America,"Washington, D.C.",United States
+ad53cc8e-8412-422e-8cad-4176daac8387,212.48.185.128,Milan,45.47866,9.18175,Europe,Rome,Italy
+f09cecd6-0d74-4551-8089-a31d64e6b9c5,17.190.112.46,Santa Clara,37.35411,-121.95524,North America,"Washington, D.C.",United States
+6b4e4e43-5b73-4906-9973-299a1b2a5e71,196.153.28.131,Sixth of October,30.00299,31.10961,Africa,Cairo,Egypt
+92a7490d-89cc-43db-81a9-d152895813aa,112.90.206.208,Zhuhai,22.2559,113.55272,Asia,Beijing,China
+df575129-3416-4c59-b282-d57267515ce1,39.33.247.78,Islamabad,33.6648,73.04191,Asia,Islamabad,Pakistan
+bd108738-9fe4-46da-9209-065a0bacd9ac,78.90.166.61,Sofia,42.69718,23.32433,Europe,Sofia,Bulgaria
+ff4fc54c-9057-4e33-aaa1-f344f6f7b42a,182.126.13.194,Luohe,33.58723,114.00694,Asia,Beijing,China
+a836d1e0-9e0f-490a-b8aa-f8c67da63b02,151.74.51.49,Rho,45.51878,9.0863,Europe,Rome,Italy

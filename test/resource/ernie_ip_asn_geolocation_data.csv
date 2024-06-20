@@ -1,0 +1,10 @@
+Transaction ID,IP,City,Lat,Lng,Continent,Capital,Country
+db096aac-6835-495e-aaa3-4d82665d156a,147.17.133.152,Waltham,42.40632,-71.27939,North America,"Washington, D.C.",United States
+5aca5952-cc27-4d6f-b612-d7af473b73e1,17.97.43.210,Cupertino,37.32268,-122.03005,North America,"Washington, D.C.",United States
+49520297-ce2d-4f75-8e00-3c17ee827f03,99.111.217.227,Oshkosh,44.02471,-88.54261,North America,"Washington, D.C.",United States
+73ab78f4-f0bc-45c6-a424-4e07fb208ec8,12.8.122.125,Tallahassee,30.50965,-84.24872,North America,"Washington, D.C.",United States
+0e2f402f-ae7c-4a77-98d2-628dfd46c53c,165.10.134.174,Ferndale,-26.09221,28.00422,Africa,Pretoria,South Africa
+fd7465c8-0c78-4f8c-b483-6f9206272c3d,159.90.91.169,Caracas,10.50526,-66.91776,South America,Caracas,Venezuela
+a150e342-5700-42fe-97c7-05402eab2f78,134.50.160.26,Pocatello,42.86198,-112.4332,North America,"Washington, D.C.",United States
+fcbcea92-3964-465e-88e2-10130ce61724,138.49.4.246,La Crosse,43.81295,-91.23001,North America,"Washington, D.C.",United States
+e4c3ae6c-b795-40aa-b59c-23d346649cb3,195.59.118.107,Bude,50.81594,-4.54661,Europe,London,United Kingdom

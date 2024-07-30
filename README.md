@@ -1,13 +1,5 @@
 # Credit Card Fraud Analysis
 
-## Group 2
-Team members : 
-- Jimmy Kim
-- Thet Win
-- Mounika Lingala
-- Ernawaty, Ernawaty
-
-
 ## Task
 Exploratory Data Analysis and Visualization
 
